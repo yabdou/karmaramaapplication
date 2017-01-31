@@ -1,0 +1,188 @@
+body {
+	background-color: #FF6E5E;
+	background: -webkit-linear-gradient(#FF0067, #FFFF67);
+
+}
+
+header {
+	background-color: #ffc472 
+	color: solid black;
+	font-family: 'Contrail One', cursive;
+	font-size: 30px;
+	text-align: center;
+}
+
+.jumbotron {
+        position: relative;
+        background-color: #ff5a67;
+     	width: 100%;
+        height: 100%;
+        background-size: cover;
+        overflow: hidden;
+        padding-top: 10px;
+        font-family: 'Contrail One', cursive;
+    }
+
+.intro h2 {
+	font-size: 35px;
+	color: black;
+}
+
+.intro p {
+	color: black;
+	font-size: 25px;
+}
+
+.btn1 {
+	display:block;
+  	height: 300px;
+  	width: 300px;
+  	border-radius: 50%;
+  	border: 10px solid black;
+  	padding-left: 40px;
+  	margin-left: 200px;
+
+}
+
+.btn1 h2 {
+	font-size: 100px;
+	position: center;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	padding-right: 70px;
+	padding-left: 70px;
+	color: black;
+	font-family: 'Contrail One', cursive;
+}
+
+
+.btn2 {
+	display:block;
+  	height: 300px;
+  	width: 300px;
+  	border-radius: 50%;
+  	border: 10px solid black;
+  	padding-left: 40px;
+  	margin-left: 170px;
+
+}
+
+.btn2 h2 {
+	font-size: 100px;
+	position: center;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	padding-right: 70px;
+	padding-left: 70px;
+	color: black;
+	font-family: 'Contrail One', cursive;
+}
+
+.btn3 {
+	display:block;
+  	height: 300px;
+  	width: 300px;
+  	border-radius: 50%;
+  	border: 10px solid black;
+  	padding-left: 40px;
+  	margin-left: 200px;
+  	margin-top: 60px;
+
+}
+
+.btn3 h2 {
+	font-size: 100px;
+	position: center;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	padding-right: 70px;
+	padding-left: 70px;
+	color: black;
+	font-family: 'Contrail One', cursive;
+
+}
+
+.btn4 {
+	display:block;
+  	height: 300px;
+  	width: 300px;
+  	border-radius: 50%;
+  	border: 10px solid black;
+  	padding-left: 40px;
+  	margin-left: 170px;
+  	margin-top: 60px;
+
+}
+
+.btn4 h2 {
+	font-size: 100px;
+	position: center;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	padding-right: 70px;
+	padding-left: 70px;
+	color: black;
+	font-family: 'Contrail One', cursive;
+
+}
+
+.maintext {
+	margin-left: 60px;
+	margin-top: 30px;
+	font-family: 'Contrail One', cursive;
+	font-size: 20px;
+	color: black;
+}
+
+.songtitle {
+	font-family: 'Contrail One', cursive;
+	text-align: center;
+	color: black;
+}
+
+.vid1 {
+	margin-left: 150px;
+	margin-top: 70px;
+}
+
+.vid2 {
+	margin-left: 150px;
+	margin-top: 50px;
+}
+
+.vid3 {
+	margin-left: 150px;
+	margin-top: 85px;
+}
+
+.vid4 {
+	margin-left: 150px;
+	margin-top: 50px;
+}
+
+.phoenix p {
+	font-family: 'Contrail One', cursive;
+	color: black;
+	margin-left: 60px;
+	margin-top: 30px;
+	font-size: 20px;
+}
+
+
+
+.specialmentions {
+	margin-top: 60px;
+	font-family: 'Contrail One';
+	text-align: center;
+	color: black;
+}
+
+.specialmentions li {
+	font-size: 24px;
+	color: black;
+}
+
+#fullmix {
+	margin-top: 60px;
+	color: black;
+}
